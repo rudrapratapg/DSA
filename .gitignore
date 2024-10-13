@@ -1,0 +1,23 @@
+# Eclipse IDE files
+.project
+.classpath
+
+# Build files
+/bin/
+*/build/
+*.class
+*.jar
+*.war
+.settings
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Logs
+*.log
+
+# Other common ignores
+*.DS_Store
