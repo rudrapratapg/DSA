@@ -16,6 +16,7 @@ To get started with this project, clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
+```
 Ensure you have Java installed and set up on your machine to run the programs.
 
 ## Features
@@ -27,6 +28,7 @@ Ensure you have Java installed and set up on your machine to run the programs.
 Each algorithm is implemented in its respective Java file. You can run the files directly to test the implementations. For example:
 ```bash
 java HashingExample
+```
 
 ## Algorithms Included
 - Hash Table Implementation
